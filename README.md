@@ -2,6 +2,7 @@
 
 Minecraft の mod である Computer Craft の turtle 用プログラム置き場
 
+This software is released under the MIT License, see LICENSE.
 
 ## ac-fluix.lua
 
